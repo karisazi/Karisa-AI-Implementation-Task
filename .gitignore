@@ -1,0 +1,5 @@
+**/*.docx
+**/.env
+**/*.zip
+**/.ipynb_checkpoints
+soal3/Cell_Phones_and_Accessories_5.json
